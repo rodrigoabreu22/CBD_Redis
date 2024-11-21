@@ -1,0 +1,73 @@
+Purchase limit set to 5 products.
+Purchase time set to 30 seconds.
+Insert client username (Type 'quit' to quit): joao
+Hi joao
+Insert the product to buy. (Type 'exit' to quit)
+car
+[joao] Product: car1 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+car
+[joao] Product: car2 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+car
+[joao] Product: car3 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+orange juice
+[joao] Product: orange juice4 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+water bottle
+[joao] Product: water bottle5 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+car
+
+Insert the product to buy. (Type 'exit' to quit)
+You have exceeded the limit of 5 products in 30 seconds.
+waiting 30 seconds
+
+Insert the product to buy. (Type 'exit' to quit)
+You have exceeded the limit of 5 products in 30 seconds.
+book
+[joao] Product: book8 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+exit
+Thank you!
+
+Insert client username (Type 'quit' to quit): maria
+Hi maria
+Insert the product to buy. (Type 'exit' to quit)
+book
+[maria] Product: book1 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+popcorn
+[maria] Product: popcorn2 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+water
+[maria] Product: water3 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+soda
+[maria] Product: soda4 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+bubblegum
+[maria] Product: bubblegum5 purchased successfully. 
+
+Insert the product to buy. (Type 'exit' to quit)
+iced tea
+You have exceeded the limit of 5 products in 30 seconds.
+
+Insert the product to buy. (Type 'exit' to quit)
+exit
+Thank you!
+
+Insert client username (Type 'quit' to quit): quit
+
+Process finished with exit code 0

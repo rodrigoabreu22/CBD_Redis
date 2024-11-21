@@ -1,0 +1,100 @@
+sehgetall liga
+hget liga
+set macaco "banana"
+get macaco
+set macaco banana xx
+set macaco banana nx
+mset futa:1 coco fruta:2 abacaxi fruta:3 manga
+mget fruta:1 fruta:2 fruta:3
+mset fruta:1 coco fruta:2 abacaxi fruta:3 manga
+mget fruta:1 fruta:2 fruta:3
+set tabuada 2
+incr tabuada 2
+incrby tabuada 2
+incr tabuada 2
+incr tabuada
+set palavra hipopotamo
+strlen palavra
+strlen aaaa
+getrange palavra 0 2
+get range palavra 0 -1
+getrange palavra 0 -1
+append palavra s
+get palavra
+ping
+set name "Rodrigo"
+get name
+HMSET user:1 username tutorialspoint password
+tutorialspoint points 200
+HMSET user:1 username tutorialspoint password 
+hmset liga:1 benfica porto sporting
+hmset liga:1 benfica porto sporting braga
+hgetall liga:1
+lpush fruta banana
+lpush fruta pera
+lpush fruta morango
+lrange fruta 
+lrange fruta 0 10
+lrange fruta 0 8
+lrange fruta 0 -1
+sadd legumes couve
+sadd legumes cenoura
+sadd legumes espinafre
+smembers legumes
+sadd legumes cenoura
+smembers legumes
+set frase "O Benfica vai ganhar"
+get frase
+getrange frase
+getrange frase 0 3
+getrange frase 0 -1
+getset frase "o vento sopra"
+get frase
+mget frase[0]
+setex frase2 10 "temporario"
+get frase2
+strlen frase
+strlen frase2
+set numero 10
+incr numero
+decr numero
+incr numero 2
+incrby numero 2
+decrby numero 2
+decrby numero 11
+append frase " benfica"
+get frase
+append numero 0
+get numero
+sadd bolas brazuca
+sadd bolas tango
+sadd bolas jabulani
+sgetall bolas
+smembers bolas
+sadd chuteiras "nike mercurial"
+sadd chuteiras "adidas copa"
+sadd chuteiras "adidas predator"
+sadd jogadores "Cristiano Ronaldo"
+sadd jogadores "Pepe"
+sadd jogadores "Bernardo Silva"
+sunion jogadores chuteiras bolas
+sunion store futebol jogadores chuteira bolas
+sunion store futebol jogadores chuteiras bolas
+sunionstore futebol jogadores chuteiras bolas
+sdiff futebol jogadores
+srandmember futebol 2
+zadd frutas meloa 2
+zadd frutas 2 meloa
+zadd frutas 1 pera
+zadd frutas 3 coco
+zmembers
+zmembers futas
+zcard frutas
+zrank frutas pera
+zrank frutas coco
+multi
+set number 10
+incrby number 5
+incrby number 10
+decrby number 20
+exec

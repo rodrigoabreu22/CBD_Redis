@@ -1,0 +1,20 @@
+set aula "Aula de CBD"
+get aula
+append aula " do prof Carlos Costa"
+get aula
+set var 5
+decr var
+decr var
+decr var
+decr var
+decr var
+get var
+multi
+incrby var 10
+exec
+get var
+zadd frutas 2 meloa
+zadd frutas 1 pera
+zadd frutas 4 coco
+zadd frutas 3 ananás
+zcard frutas

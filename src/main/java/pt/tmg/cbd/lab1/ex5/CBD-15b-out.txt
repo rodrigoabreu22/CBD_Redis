@@ -1,0 +1,55 @@
+Purchase limit set to 5 units.
+Purchase time set to 30 seconds.
+Insert client username (Type 'quit' to quit): joao
+Hi joao
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+prime drink
+[joao] Product: prime drink 1 1x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+bread 4
+[joao] Product: bread 2 4x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+steak 2
+You have exceeded the limit of 5 products in 30 seconds.
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+waiting 30 seconds
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+You have exceeded the limit of 5 products in 30 seconds.
+steak 2
+[joao] Product: steak 5 2x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+exit
+Thank you!
+
+Insert client username (Type 'quit' to quit): ricardo
+Hi ricardo
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+bacon pizza
+[ricardo] Product: bacon pizza 6 1x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+water bottle 2
+[ricardo] Product: water bottle 7 2x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+soda 3
+You have exceeded the limit of 5 products in 30 seconds.
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+soda 2
+[ricardo] Product: soda 9 2x purchased successfully. 
+
+Insert the product to buy [{prdouctName} {quantity}]. (Type 'exit' to quit)
+exit
+Thank you!
+
+Insert client username (Type 'quit' to quit): quit
+
+Process finished with exit code 0

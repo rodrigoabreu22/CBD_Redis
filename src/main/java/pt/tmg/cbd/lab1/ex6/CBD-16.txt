@@ -1,0 +1,16 @@
+USERS_SET : set com todos os users do sistema.
+LOGIN_SET : set com os dados de autenticação de todos os utilizadores. key=(LOGIN_SET:{username}) value=password
+MESSAGES_LIST : lista com todas as publicações de cada utilizador. key=MESSAGES_LIST:{username} value=lista ordenada com cada publicação feita.
+FOLLOWERS_LIST : set com todos os seguidores de cada utilizador. key=FOLLOWERS_LIST:{username} value:set com os seguidores de cada utilizador
+
+No ficheiro de output usei apenas 2 utilizadores, mas o sistema funciona para mais. Procurei mostrar a execução de cada função do sistema:
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Realizado por: Rodrigo Abreu, NMEC: 113626

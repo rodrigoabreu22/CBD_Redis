@@ -1,0 +1,342 @@
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 1
+
+Username: 
+foo
+Password: 
+bola
+Confirm Password:
+bola
+Successfully logged in.
+
+Welcome back, foo!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 7
+foo logged out successfully.
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 1
+
+Username: 
+bar
+Password: 
+benfica
+Confirm Password:
+benfica
+Successfully logged in.
+
+Welcome back, bar!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 2
+Username of the user you want to follow: 
+foo
+You now follow foo
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 7
+bar logged out successfully.
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 2
+
+Username: 
+foo
+Password: 
+bola
+Successfully logged in.
+
+Welcome back, foo!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 1
+Write your message below. 
+O benfica ganhou ao atletico de madrid
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 1
+Write your message below. 
+o carreras parece o roberto carlos
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 4
+Your publish history:
+O benfica ganhou ao atletico de madrid
+o carreras parece o roberto carlos
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 6
+Your followers: 
+bar
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 2
+Username of the user you want to follow: 
+bar
+You now follow bar
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 7
+foo logged out successfully.
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 2
+
+Username: 
+bar
+Password: 
+benfica
+Successfully logged in.
+
+Welcome back, bar!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 5
+Enter the username of the user: foo
+foopublish history:
+O benfica ganhou ao atletico de madrid
+o carreras parece o roberto carlos
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 6
+Your followers: 
+foo
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 4
+You have not published anything yet!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 1
+Write your message below. 
+quem é o gyokeres? je ne sais pa
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 4
+Your publish history:
+quem é o gyokeres? je ne sais pa
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 3
+Username of the user you want to unfollow: 
+foo
+foo unfollowed.
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 5
+Enter the username of the user: foo
+You don't follow this user! 
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 7
+bar logged out successfully.
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 2
+
+Username: 
+foo
+Password: 
+bola
+Successfully logged in.
+
+Welcome back, foo!
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 5
+Enter the username of the user: bar
+barpublish history:
+quem é o gyokeres? je ne sais pa
+
+-------- MENU --------
+1. Publish a message
+2. Follow a user
+3. Unfollow a user
+4. Read my publish history
+5. Read a user's publish history
+6. Check my followers
+7. Log out
+8. Delete my account
+
+Enter your choice: 8
+Your account has been deleted permanently.
+-------- CHAT SYSTEM --------
+1. Sign in
+2. Log in
+3. Exit
+> 3
+Exiting...
